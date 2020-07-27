@@ -8,8 +8,8 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "@firebase/testing": "^0.20.5",
-    "firebase-tools": "^8.4.3",
+    "@firebase/testing": "^0.20.9",
+    "firebase-tools": "^8.6.0",
     "mocha": "^8.0.1"
   }
 }
